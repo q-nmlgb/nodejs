@@ -1,0 +1,21 @@
+{
+  "name": "detsaaa",
+  "version": "2,0,0",
+  "description": " e project",
+  "main": "index1.js",
+  "author": "tesees",
+  "repository": "",
+  "license": "asd",
+  "private": false,
+  "scripts": {
+    "dev": "node index1.js",
+    "start": "node index1.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
